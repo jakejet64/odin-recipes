@@ -1,0 +1,38 @@
+* {
+    font-family: "Tahoma", sans-serif;
+    text-align: center;
+}
+
+h1,
+h5 {
+    color: white;
+    background-color: black;
+}
+
+h3 {
+    font-size: 36px;
+}
+
+body {
+    background-color: gray;
+}
+
+li {
+    margin-left: 20%;
+    text-align: left;
+}
+
+img {
+    width: 300;
+    height: auto;
+}
+
+em {
+    font-size: 25px;
+}
+
+.Warning {
+    font-family: "Impact", sans-serif;
+    color: white;
+    background-color: red;
+}
